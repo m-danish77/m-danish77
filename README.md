@@ -2,7 +2,13 @@
 
 ### 👤 About Me
 
-## Hi there, I'm Muhammad Munib Danish 👋
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>Hi there, I'm Muhammad Munib Danish 👋</h1>
+    </summary>
+  </ul>
+</div>
 
 **Full-Stack Developer** | Specializing in robust backend architectures & seamless user interfaces.
 
