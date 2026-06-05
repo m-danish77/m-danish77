@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Muhammad Munib Danish 👋
 
-<!--
-**m-danish77/m-danish77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Software Developer specializing in building clean, optimized user interfaces and robust, scalable backend architectures. I love solving complex structural problems, designing high-performance RESTful APIs, and documenting my engineering journey.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+* 🌐 Crafting responsive web applications using the modern **React & Next.js 14** ecosystem.
+* ⚙️ Architecting secure backend services and API infrastructure using **Node.js & Express**.
+* 🗄️ Designing efficient database schemas and entity relationships using **MongoDB (Mongoose)** and **PostgreSQL (Prisma)**.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Frontend | Backend & Runtime | Databases & ORMs | Tools & Ecosystem |
+| :--- | :--- | :--- | :--- |
+| HTML5 / CSS3 / JS | Node.js | MongoDB | Git / GitHub |
+| React | Express | PostgreSQL | Bruno (API Testing) |
+| Next.js 14 | TypeScript | Mongoose / Prisma | Postman |
+
+---
+
+### 📈 Current Focus & Engineering Goals
+* 🏗️ **Scalable Architecture:** Designing modular, production-ready RESTful APIs using clean MVC patterns and enterprise-level directory structures.
+* 🔒 **Security & Validation:** Implementing robust token-based authentication mechanisms, secure middleware layers, and strict request schema validation.
+* ⚡ **Data Optimization:** Deep-diving into efficient database modeling, query optimization, and indexing across both SQL and NoSQL ecosystems.
+
+---
+
+### 🤝 Connect with Me
+* 💼 **LinkedIn:** [linkedin.com/in/munib-danish-4b1574298](https://www.linkedin.com/in/munib-danish-4b1574298/)
+* 🐦 **X (Twitter):** [@MunibDanish456](https://x.com/MunibDanish456)
