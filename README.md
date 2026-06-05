@@ -21,11 +21,12 @@
 
 ### 📈 Engineering Focus
 
-* 🏗️ **Scalable Architecture:** Designing modular RESTful APIs using clean MVC directory structures.
-* 🔒 **Security & Validation:** Implementing production-ready token authentication and middleware.
-* ⚡ **Data Optimization:** Crafting efficient database schemas across SQL and NoSQL.
+<div align="left" style="display: inline-block; text-align: left; max-width: 600px;">
+  <p>🏗️ <strong>Scalable Architecture:</strong> Designing modular RESTful APIs using clean MVC directory structures.</p>
+  <p>🔒 <strong>Security & Validation:</strong> Implementing production-ready token authentication and middleware.</p>
+  <p>⚡ <strong>Data Optimization:</strong> Crafting efficient database schemas across SQL and NoSQL.</p>
+</div>
 
----
 ---
 
 ### 📊 GitHub Stats
