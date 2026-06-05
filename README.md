@@ -1,5 +1,7 @@
 <div align="center">
 
+### 👤 About Me
+
 # Hi there, I'm Muhammad Munib Danish 👋
 
 **Full-Stack Developer** | Specializing in robust backend architectures & seamless user interfaces.
@@ -16,8 +18,6 @@
 
 **Tools & Ecosystem**  
 ![Bruno](https://img.shields.io/badge/Bruno-7C3AED?style=for-the-badge&logo=bruno&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
 
 ---
 
