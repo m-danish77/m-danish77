@@ -26,12 +26,13 @@
 * ⚡ **Data Optimization:** Crafting efficient database schemas across SQL and NoSQL.
 
 ---
+---
 
 ### 📊 GitHub Stats
 
 <p id="stats-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-danish77&show_icons=true&theme=dark&hide_border=true&align=center" alt="Munib's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-danish77&layout=compact&theme=dark&hide_border=true&align=center" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=m-danish77&show_icons=true&theme=dark&hide_border=true&align=center" alt="Munib's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m-danish77&layout=compact&theme=dark&hide_border=true&align=center" alt="Top Languages" height="150" />
 </p>
 
 ---
