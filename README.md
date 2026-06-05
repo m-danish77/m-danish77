@@ -19,12 +19,16 @@
 
 ---
 
+---
+
 ### 📈 Engineering Focus
 
-<div align="left" style="display: inline-block; text-align: left; max-width: 600px;">
-  <p>🏗️ <strong>Scalable Architecture:</strong> Designing modular RESTful APIs using clean MVC directory structures.</p>
-  <p>🔒 <strong>Security & Validation:</strong> Implementing production-ready token authentication and middleware.</p>
-  <p>⚡ <strong>Data Optimization:</strong> Crafting efficient database schemas across SQL and NoSQL.</p>
+<div align="center">
+  <div style="display: inline-block; text-align: left; max-width: 650px;">
+    <p>🏗️ <strong>Scalable Architecture:</strong> Designing modular RESTful APIs using clean MVC directory structures.</p>
+    <p>🔒 <strong>Security & Validation:</strong> Implementing production-ready token authentication and middleware.</p>
+    <p>⚡ <strong>Data Optimization:</strong> Crafting efficient database schemas across SQL and NoSQL.</p>
+  </div>
 </div>
 
 ---
