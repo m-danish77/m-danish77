@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+and+Next.js+SaaS+Builder;Node.js+%7C+Express+API+Builder;DSA+Enthusiast;Learning+System+Design;Always+Building+Cool+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+and+Next.js+SaaS+Builder;Node.js+%7C+Express+MongoDb+Developer;DSA+Enthusiast;Learning+System+Design;Always+Building+Cool+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,8 +14,9 @@
 
 <details>
   <summary><strong>Hi there, I'm Muhammad Munib Danish 👋</strong></summary>
-  <p><strong>Full-Stack Developer</strong> | Specializing in robust backend architectures & seamless user interfaces.</p>
 </details>
+
+**Full-Stack Developer** | Specializing in robust backend architectures & seamless user interfaces.
 
 ---
 
