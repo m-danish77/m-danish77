@@ -12,9 +12,7 @@
 
 ### 👤 About Me
 
-<details>
-  <summary><strong>Hi there, I'm Muhammad Munib Danish 👋</strong></summary>
-</details>
+## Hi there, I'm Muhammad Munib Danish 👋
 
 **Full-Stack Developer** | Specializing in robust backend architectures & seamless user interfaces.
 
