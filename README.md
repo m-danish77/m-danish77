@@ -43,15 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div id="stats-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-danish77&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-danish77&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munib-danish/) 
