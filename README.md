@@ -54,7 +54,7 @@
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munib-danish-4b1574298/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munib-danish/) 
 [![x.com](https://img.shields.io/badge/x.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MunibDanish456) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmunibdanish456@gmail.com)
 
